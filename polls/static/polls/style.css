@@ -1,0 +1,8 @@
+li a {
+    color: green;
+    text-transform: capitalize;
+}
+
+body {
+    background: white url("images/449921.jpg") no-repeat ;
+}
