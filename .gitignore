@@ -17,7 +17,7 @@ media
 *.py[cod]
 *$py.class
 
-mysite/secret_settings
+mysite/secret_settings.py
 
 # C extensions
 *.so
